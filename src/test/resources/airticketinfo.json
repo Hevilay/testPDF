@@ -1,0 +1,106 @@
+[
+  {
+    "department": "财务部",
+    "name": "金芝",
+    "price": 670,
+    "ticketNum": "880-4959114359",
+    "ticketTime": "2017-6-8",
+    "voyage": "上海浦东-深圳"
+  },
+  {
+    "department": "采购部",
+    "name": "汪泉",
+    "price": 1250,
+    "ticketNum": "784-1373527665",
+    "ticketTime": "2017-4-21",
+    "voyage": "上海浦东-深圳"
+  },
+  {
+    "department": "传统渠道销售部",
+    "name": "魏秉章",
+    "price": 820,
+    "ticketNum": "999-1200566029",
+    "ticketTime": "2016-12-25",
+    "voyage": "成都-北京首都"
+  },
+  {
+    "department": "传统渠道销售部",
+    "name": "孙飚",
+    "price": 790,
+    "ticketNum": "479-4957188398",
+    "ticketTime": "2017-6-5",
+    "voyage": "南昌-深圳"
+  },
+  {
+    "department": "大品牌管理部",
+    "name": "刘鸶",
+    "price": 1270,
+    "ticketNum": "784-1201757096",
+    "ticketTime": "2017-1-4",
+    "voyage": "深圳-北京首都"
+  },
+  {
+    "department": "大品牌管理部",
+    "name": "刘鸶",
+    "price": 1150,
+    "ticketNum": "479-1361592069",
+    "ticketTime": "2017-3-29",
+    "voyage": "南京-深圳"
+  },
+  {
+    "department": "大品牌管理部",
+    "name": "周强",
+    "price": 1000,
+    "ticketNum": "999-1186404781",
+    "ticketTime": "2016-12-10",
+    "voyage": "北京首都-上海浦东"
+  },
+  {
+    "department": "大品牌管理部",
+    "name": "周强",
+    "price": 1150,
+    "ticketNum": "479-1361592051",
+    "ticketTime": "2017-3-29",
+    "voyage": "南京-深圳"
+  },
+  {
+    "department": "大品牌管理部",
+    "name": "周强",
+    "price": 820,
+    "ticketNum": "479-1373527586",
+    "ticketTime": "2017-4-21",
+    "voyage": "深圳-上海虹桥"
+  },
+  {
+    "department": "大品牌管理部",
+    "name": "周强",
+    "price": 1260,
+    "ticketNum": "479-1373527207",
+    "ticketTime": "2017-4-19",
+    "voyage": "上海虹桥-深圳"
+  },
+  {
+    "department": "大品牌管理部",
+    "name": "周强",
+    "price": 1680,
+    "ticketNum": "999-5639593108",
+    "ticketTime": "2017-6-21",
+    "voyage": "北京首都-深圳"
+  },
+  {
+    "department": "大品牌管理部",
+    "name": "周强",
+    "price": 1030,
+    "ticketNum": "999-4952460726",
+    "ticketTime": "2017-5-31",
+    "voyage": "北京首都-上海虹桥"
+  },
+  {
+    "department": "电子商务及数字化营销部",
+    "name": "常文丽",
+    "price": 760,
+    "ticketNum": "781-1039028484",
+    "ticketTime": "2016-10-14",
+    "voyage": "北京首都-南京"
+  }
+]
